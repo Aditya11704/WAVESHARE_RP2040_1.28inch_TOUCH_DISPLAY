@@ -17,6 +17,9 @@ The RP2040 Tripper Navigation project is a compact, touch-enabled navigation int
 ✔️ SquareLine Studio UI integrated with button interactions working
 ✔️ Touch-based navigation interface designed and tested
 ✔️ UI optimized for smooth, flicker-free operation on RP2040
+![Screenshot 2025-07-04 184246](https://github.com/user-attachments/assets/e07b6417-ca5c-4b6e-b5b4-3230d8f6057c)
+
+
 
 ### **Future Goals:**
 
